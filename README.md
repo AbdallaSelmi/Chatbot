@@ -51,3 +51,14 @@ CHATBOT/
    cd Chatbot
    python main.py
 
+## 💬 Demo
+**User:** hi  
+**Bot:** Hello!  
+
+**User:** 12*(5+2)  
+**Bot:** = 84  
+
+**User:** what's the time?  
+**Bot:** ⏰ 2025-09-07 00:35:00
+
+
