@@ -30,6 +30,7 @@ CHATBOT/
 ├── README.md
 └── .gitignore
 
+
 ## 🛠️ Technologies
 - Python 3  
 - JSON (data storage)  
