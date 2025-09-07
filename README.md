@@ -16,7 +16,7 @@ It recognizes user input patterns defined in a JSON file and can respond with sm
 ---
 
 ## 📂 Project Structure
-
+```
 CHATBOT/
 │
 ├── bot/
@@ -29,7 +29,7 @@ CHATBOT/
 ├── main.py # Entry point (will run the bot)
 ├── README.md
 └── .gitignore
-
+```
 
 ## 🛠️ Technologies
 - Python 3  
