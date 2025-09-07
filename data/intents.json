@@ -1,0 +1,32 @@
+{
+  "greet": {
+    "patterns": ["hi", "hello", "hey"],
+    "responses": ["Hey! 👋", "Hello!", "Hi there!"]
+  },
+  "goodbye": {
+    "patterns": ["bye", "goodbye", "see you"],
+    "responses": ["See you 👋", "Bye!", "Catch you later!"]
+  },
+  "thanks": {
+    "patterns": ["thank you", "thanks"],
+    "responses": ["Anytime!", "No problem 👍", "Happy to help"]
+  },
+  "help": {
+    "patterns": ["help", "what can you do?"],
+    "responses": [
+      "I can tell the time, do quick math (e.g, 12*8), and small talk. Try: 'What time is it' or '15+7'."
+    ]
+  },
+  "time_now": {
+    "patterns": ["time", "what's the time"],
+    "responses": []
+  },
+  "calc": {
+    "patterns": ["^[0-9 .+\\-*/()]+$"],
+    "responses": []
+  },
+  "fallback": {
+    "patterns": [],
+    "responses": ["Hmm, i'm not sure yet. Try 'help' to see what i can do."]
+  }
+}
