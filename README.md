@@ -1,4 +1,4 @@
-# Chatbot 🤖
+# Chatbot 🤖 (In Progress)
 
 A simple rule-based chatbot built in Python.  
 It recognizes user input patterns defined in a JSON file and can respond with small talk, tell the current time, or solve math expressions.
