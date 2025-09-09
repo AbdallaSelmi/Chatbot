@@ -7,8 +7,8 @@ from datetime import datetime
 
 
 def action_time_now(_: str) -> str:
-    # unable to nest single quotes in fstring
     return f"⏰ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+# unable to nest single quotes in f string
 
 
 def action_calc(expr: str) -> str:
